@@ -1,16 +1,16 @@
 <template>
-    <h1>VUE METEOR APP</h1>
+    <div>
+        <h1>VUE METEOR APPPPPP</h1>
 
-    <router-view></router-view>
-
+        <router-view></router-view>
+    </div>
 </template>
 <script>
 export default {
 
 }
 </script>
-<style>
-body {
-    background-color:#f1f1f1;
-}
+<style lang="stylus">
+body
+    background-color blue
 </style>
